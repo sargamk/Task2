@@ -13,7 +13,7 @@ const Header: React.FC = () => {
             </div>
           </div>
           <h1 className="text-xl md:text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-purple-400">
-            Summarize & Visualize
+            SummifyArt
           </h1>
         </div>
         
